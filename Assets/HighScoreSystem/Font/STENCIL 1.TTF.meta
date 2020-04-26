@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8d3cdd76732da734ba8a90f230295f63
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stencil
+  fontNames:
+  - Stencil
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b82cac8df3df87c438b02bc2417fe94f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
